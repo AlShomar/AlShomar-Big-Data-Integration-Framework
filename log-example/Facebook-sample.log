@@ -1,0 +1,54 @@
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Start to retrieve and clean data from Facebook/bbcnews nextPageUrl: null
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get FB Post: 727 milliseconds has 1947 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Post's comments: 482 milliseconds has 10055 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 363 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 255 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 254 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 256 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 263 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 273 milliseconds has 1061 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 268 milliseconds has 694 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 261 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 260 milliseconds has 1366 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 371 milliseconds has 1485 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 263 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 261 milliseconds has 217 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 258 milliseconds has 240 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 328 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 259 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 357 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 253 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 283 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 259 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 329 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 256 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 360 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 267 milliseconds has 585 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 343 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 251 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 253 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 270 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 269 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 288 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 252 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 252 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 259 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 276 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 253 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 359 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 256 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 356 milliseconds has 2 bytes
+[INFO ] [main] ApplicationStarter - FreeMemory 88.000000 M.B, UsedMemory: 61.000000 M.B, TotalMemory: 150.000000 M.B
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Post's comments: 494 milliseconds has 22936 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 255 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 278 milliseconds has 3437 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 259 milliseconds has 1151 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 255 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 311 milliseconds has 7024 bytes
+[INFO ] [pool-2-thread-1] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 340 milliseconds has 466 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 377 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 297 milliseconds has 2772 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 256 milliseconds has 2 bytes
+[INFO ] [pool-2-thread-1] FacebookDataRetriever - Total time to get Comment's replies: 275 milliseconds has 3377 bytes

@@ -1,0 +1,155 @@
+[INFO ] [main] ShutdownHookCleanUp - Initialize shutdown hook cleanup
+[INFO ] [main] ApplicationStarter - Start to run process: job-processing-cleaning-data at class: TwitterDataRetriever, params: {}
+[INFO ] [main] ApplicationStarter - FreeMemory 105.000000 M.B, UsedMemory: 44.000000 M.B, TotalMemory: 150.000000 M.B
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get tweets: 1501 milliseconds has 430038 bytes
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Start to retrieve and clean data from Twitter, with max id: -1
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get Tweet's replies: 334 milliseconds has 2358 bytes
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get Tweet's replies: 310 milliseconds has 2161 bytes
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get Tweet's replies: 306 milliseconds has 3571 bytes
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get Tweet's replies: 306 milliseconds has 5074 bytes
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get Tweet's replies: 239 milliseconds has 2201 bytes
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get Tweet's replies: 247 milliseconds has 2045 bytes
+[INFO ] [pool-2-thread-1] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get Tweet's replies: 355 milliseconds has 3002 bytes
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get Tweet's replies: 276 milliseconds has 3002 bytes
+[INFO ] [pool-2-thread-1] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get Tweet's replies: 420 milliseconds has 1886 bytes
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get tweets: 921 milliseconds has 430037 bytes
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Start to retrieve and clean data from Twitter, with max id: 931445579196108801
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get Tweet's replies: 331 milliseconds has 2358 bytes
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get Tweet's replies: 304 milliseconds has 2161 bytes
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get Tweet's replies: 234 milliseconds has 3571 bytes
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get Tweet's replies: 248 milliseconds has 5074 bytes
+[INFO ] [main] ApplicationStarter - FreeMemory 160.000000 M.B, UsedMemory: 23.000000 M.B, TotalMemory: 183.000000 M.B
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get Tweet's replies: 331 milliseconds has 2201 bytes
+[INFO ] [pool-2-thread-1] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get Tweet's replies: 416 milliseconds has 2045 bytes
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get Tweet's replies: 293 milliseconds has 3002 bytes
+[INFO ] [pool-2-thread-1] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get Tweet's replies: 306 milliseconds has 3002 bytes
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get Tweet's replies: 232 milliseconds has 1886 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get tweets: 1087 milliseconds has 430038 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Start to retrieve and clean data from Twitter, with max id: 931445579196108801
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 396 milliseconds has 2358 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 258 milliseconds has 2161 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 352 milliseconds has 3571 bytes
+[INFO ] [pool-2-thread-2] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 342 milliseconds has 5074 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 302 milliseconds has 2201 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 237 milliseconds has 2045 bytes
+[INFO ] [pool-2-thread-2] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 291 milliseconds has 3002 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 294 milliseconds has 3002 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 307 milliseconds has 1886 bytes
+[INFO ] [main] ApplicationStarter - FreeMemory 105.000000 M.B, UsedMemory: 77.000000 M.B, TotalMemory: 183.000000 M.B
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get tweets: 1047 milliseconds has 430040 bytes
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Start to retrieve and clean data from Twitter, with max id: 931445579196108801
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get Tweet's replies: 234 milliseconds has 2358 bytes
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get Tweet's replies: 358 milliseconds has 2161 bytes
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get Tweet's replies: 307 milliseconds has 3571 bytes
+[INFO ] [pool-2-thread-1] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get Tweet's replies: 307 milliseconds has 5074 bytes
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get Tweet's replies: 254 milliseconds has 2201 bytes
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get Tweet's replies: 255 milliseconds has 2045 bytes
+[INFO ] [pool-2-thread-1] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get Tweet's replies: 253 milliseconds has 3002 bytes
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get Tweet's replies: 304 milliseconds has 3002 bytes
+[INFO ] [pool-2-thread-1] TwitterDataRetriever - Total time to get Tweet's replies: 261 milliseconds has 1886 bytes
+[INFO ] [pool-2-thread-3] TwitterDataRetriever - Total time to get tweets: 1080 milliseconds has 430040 bytes
+[INFO ] [pool-2-thread-3] TwitterDataRetriever - Start to retrieve and clean data from Twitter, with max id: 931445579196108801
+[INFO ] [pool-2-thread-3] TwitterDataRetriever - Total time to get Tweet's replies: 253 milliseconds has 2358 bytes
+[INFO ] [pool-2-thread-3] TwitterDataRetriever - Total time to get Tweet's replies: 309 milliseconds has 2161 bytes
+[INFO ] [pool-2-thread-3] TwitterDataRetriever - Total time to get Tweet's replies: 305 milliseconds has 3571 bytes
+[INFO ] [pool-2-thread-3] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-3] TwitterDataRetriever - Total time to get Tweet's replies: 244 milliseconds has 5074 bytes
+[INFO ] [pool-2-thread-3] TwitterDataRetriever - Total time to get Tweet's replies: 248 milliseconds has 2201 bytes
+[INFO ] [pool-2-thread-3] TwitterDataRetriever - Total time to get Tweet's replies: 239 milliseconds has 2045 bytes
+[INFO ] [pool-2-thread-3] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-3] TwitterDataRetriever - Total time to get Tweet's replies: 289 milliseconds has 3002 bytes
+[INFO ] [pool-2-thread-3] TwitterDataRetriever - Total time to get Tweet's replies: 307 milliseconds has 3002 bytes
+[INFO ] [pool-2-thread-3] TwitterDataRetriever - Total time to get Tweet's replies: 307 milliseconds has 1886 bytes
+[INFO ] [main] ApplicationStarter - FreeMemory 210.000000 M.B, UsedMemory: 64.000000 M.B, TotalMemory: 275.000000 M.B
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get tweets: 853 milliseconds has 430040 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Start to retrieve and clean data from Twitter, with max id: 931445579196108801
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 259 milliseconds has 2358 bytes
+[INFO ] [pool-2-thread-2] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 339 milliseconds has 2161 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 246 milliseconds has 3571 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 296 milliseconds has 5074 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 292 milliseconds has 2201 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 279 milliseconds has 2045 bytes
+[INFO ] [pool-2-thread-2] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 269 milliseconds has 3002 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 261 milliseconds has 3002 bytes
+[INFO ] [pool-2-thread-2] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 291 milliseconds has 1886 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get tweets: 1121 milliseconds has 430040 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Start to retrieve and clean data from Twitter, with max id: 931445579196108801
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 318 milliseconds has 2358 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 412 milliseconds has 2161 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 405 milliseconds has 3571 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 370 milliseconds has 5074 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 302 milliseconds has 2201 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 350 milliseconds has 2045 bytes
+[INFO ] [pool-2-thread-2] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 411 milliseconds has 3002 bytes
+[INFO ] [pool-2-thread-2] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 303 milliseconds has 3002 bytes
+[INFO ] [main] ApplicationStarter - FreeMemory 105.000000 M.B, UsedMemory: 169.000000 M.B, TotalMemory: 275.000000 M.B
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 410 milliseconds has 1886 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get tweets: 1456 milliseconds has 430040 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Start to retrieve and clean data from Twitter, with max id: 931445579196108801
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 297 milliseconds has 2358 bytes
+[ERROR] [pool-3-thread-1] KafkaLogHandler - Error ocurred when send log to kafka, message: %sFailed to update metadata after 60000 ms.
+org.apache.kafka.common.errors.TimeoutException: Failed to update metadata after 60000 ms.
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 293 milliseconds has 2161 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 364 milliseconds has 3571 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 310 milliseconds has 5074 bytes
+[INFO ] [pool-2-thread-2] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 295 milliseconds has 2201 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 314 milliseconds has 2045 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 410 milliseconds has 3002 bytes
+[INFO ] [pool-2-thread-2] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 308 milliseconds has 3002 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 303 milliseconds has 1886 bytes
+[INFO ] [main] ApplicationStarter - FreeMemory 46.000000 M.B, UsedMemory: 228.000000 M.B, TotalMemory: 275.000000 M.B
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get tweets: 991 milliseconds has 430040 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Start to retrieve and clean data from Twitter, with max id: 931445579196108801
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 340 milliseconds has 2358 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 260 milliseconds has 2161 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 251 milliseconds has 3571 bytes
+[INFO ] [pool-2-thread-2] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 307 milliseconds has 5074 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 305 milliseconds has 2201 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 244 milliseconds has 2045 bytes
+[INFO ] [pool-2-thread-2] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 276 milliseconds has 3002 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 250 milliseconds has 3002 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 258 milliseconds has 1886 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get tweets: 805 milliseconds has 430040 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Start to retrieve and clean data from Twitter, with max id: 931445579196108801
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 252 milliseconds has 2358 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 251 milliseconds has 2161 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 231 milliseconds has 3571 bytes
+[INFO ] [pool-2-thread-2] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 408 milliseconds has 5074 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 230 milliseconds has 2201 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 284 milliseconds has 2045 bytes
+[INFO ] [pool-2-thread-2] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 305 milliseconds has 3002 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 308 milliseconds has 3002 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 248 milliseconds has 1886 bytes
+[INFO ] [main] ApplicationStarter - FreeMemory 150.000000 M.B, UsedMemory: 116.000000 M.B, TotalMemory: 266.000000 M.B
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get tweets: 976 milliseconds has 430040 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Start to retrieve and clean data from Twitter, with max id: 931445579196108801
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 316 milliseconds has 2358 bytes
+[INFO ] [pool-2-thread-2] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 238 milliseconds has 2161 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 254 milliseconds has 3571 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 259 milliseconds has 5074 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 249 milliseconds has 2201 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 242 milliseconds has 2045 bytes
+[INFO ] [pool-2-thread-2] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 235 milliseconds has 3002 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 251 milliseconds has 3002 bytes
+[INFO ] [pool-2-thread-2] TwitterDataRetriever - Total time to get Tweet's replies: 223 milliseconds has 1886 bytes

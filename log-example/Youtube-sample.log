@@ -1,0 +1,67 @@
+[INFO ] [main] ApplicationStarter - Start to run process: job-processing-cleaning-data at class: YoutubeDataRetriever, params: {}
+[INFO ] [main] ApplicationStarter - FreeMemory 105.000000 M.B, UsedMemory: 44.000000 M.B, TotalMemory: 150.000000 M.B
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Start to retrieve youtube data at region: GB pagetoken = null
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get videos: 780 milliseconds has 17153 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 600 milliseconds has 11481 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 770 milliseconds has 10848 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 744 milliseconds has 11088 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 708 milliseconds has 10898 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 619 milliseconds has 12074 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get comment's replies: 619 milliseconds has 1011 bytes
+[INFO ] [pool-2-thread-1] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 529 milliseconds has 11065 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 490 milliseconds has 10949 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 524 milliseconds has 10449 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 613 milliseconds has 10882 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 512 milliseconds has 10836 bytes
+[INFO ] [pool-2-thread-1] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 602 milliseconds has 11062 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 493 milliseconds has 11331 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 536 milliseconds has 10846 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 609 milliseconds has 14486 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get comment's replies: 609 milliseconds has 821 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get comment's replies: 609 milliseconds has 1987 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 508 milliseconds has 11118 bytes
+[INFO ] [pool-2-thread-1] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 547 milliseconds has 11161 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 572 milliseconds has 11447 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 617 milliseconds has 11830 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get comment's replies: 617 milliseconds has 815 bytes
+[INFO ] [main] ApplicationStarter - FreeMemory 122.000000 M.B, UsedMemory: 61.000000 M.B, TotalMemory: 184.000000 M.B
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 538 milliseconds has 12040 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get comment's replies: 538 milliseconds has 869 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 485 milliseconds has 10939 bytes
+[INFO ] [pool-2-thread-1] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 480 milliseconds has 11121 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 516 milliseconds has 11160 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 487 milliseconds has 12087 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get comment's replies: 487 milliseconds has 838 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 552 milliseconds has 11138 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 517 milliseconds has 11884 bytes
+[INFO ] [pool-2-thread-1] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get comment's replies: 517 milliseconds has 910 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 512 milliseconds has 11188 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 508 milliseconds has 11362 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 609 milliseconds has 12306 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get comment's replies: 609 milliseconds has 842 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 509 milliseconds has 11183 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 613 milliseconds has 10904 bytes
+[INFO ] [pool-2-thread-1] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 500 milliseconds has 14391 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get comment's replies: 500 milliseconds has 1034 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get comment's replies: 500 milliseconds has 1726 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 519 milliseconds has 11239 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 514 milliseconds has 14038 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get comment's replies: 514 milliseconds has 818 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get comment's replies: 514 milliseconds has 1801 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 608 milliseconds has 10889 bytes
+[INFO ] [pool-2-thread-1] AbstractProcess - Just receive 50 messages, start to send to Kafka
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 613 milliseconds has 13003 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get comment's replies: 613 milliseconds has 1010 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get comment's replies: 613 milliseconds has 964 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 716 milliseconds has 10725 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 614 milliseconds has 13205 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get comment's replies: 614 milliseconds has 814 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get comment's replies: 614 milliseconds has 944 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 711 milliseconds has 11179 bytes
+[INFO ] [pool-2-thread-1] YoutubeDataRetriever - Total time to get video's comments: 615 milliseconds has 10653 bytes
